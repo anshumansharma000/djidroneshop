@@ -17,7 +17,7 @@ const Hero = () => {
           <button
             className="btn-positivus"
             onClick={() => {
-              window.open(`tel:${+917008560260}`, "_self");
+              window.open(`tel:${7008560260}`, "_self");
             }}
           >
             Book a free consultation

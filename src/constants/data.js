@@ -16,7 +16,7 @@ const Menu = [
   },
   {
     text: "+91-7008560260",
-    link: `tel:${+917008560260}`,
+    link: `tel:${7008560260}`,
   },
 ];
 const ServicesData = [
